@@ -19,7 +19,7 @@
     npm install
 
 ## Start the Project
-   npm run dev
+    npm run dev
 
 ## Contrubution Guidelines
 - NotesEase is an open-source application .We are committed to a fully transparent development process and appreciate highly any contributions.
@@ -37,6 +37,6 @@
 -[NotesEase Clone](https://github.com/ChandanaThoti/notes-taking-app.git)
 
 ## Contact Information
-User : Thoti Chandana
-GitHub : -[chandanathoti](https://github.com/ChandanaThoti)
+- User : Thoti Chandana
+- GitHub : -[chandanathoti](https://github.com/ChandanaThoti)
 
