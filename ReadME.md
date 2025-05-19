@@ -25,7 +25,7 @@
 - NotesEase is an open-source application .We are committed to a fully transparent development process and appreciate highly any contributions.
 
 ## Git Workflow Instructions
-- Clone he repository
+- Clone the repository
 - Create a Feature Branch
 - Work on the feature
 - Pull latest changes before push
