@@ -16,13 +16,7 @@
 - The application consist of dashboard displaying all user notes
 
 ## Installation
-- Front End
-   cd frontend
-   npm install
-   
-- Backend 
-   cd backend
-   npm install
+    npm install
 
 ## Start the Project
    npm run dev
